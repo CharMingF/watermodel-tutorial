@@ -34,12 +34,12 @@ date: 2017-8-13
 
 成为水环境领域的数据工程师而努力持续学习，在水环境和计算机海洋中驰骋，力求每天进步一点点。
 
-![页尾](http://o7lq3lehf.bkt.clouddn.com/%E5%B0%8F%E4%B9%A6%E5%8C%A0/%E9%A1%B5%E5%B0%BE%E8%AF%86%E5%88%ABnew-2017-09-22.png)
+![页尾](http://comieswater-1254012817.cossh.myqcloud.com/comieswater/1523461711267.jpg)
 微信公众号 | 水环境编Cheng长
 网           站 | www.comieswater.com
 [1] Chapra, Steven C. Surface water-quality modeling. Waveland press, 2008.
 
-![赞赏我](http://o7lq3lehf.bkt.clouddn.com/IMG_3077.JPG)
+![赞赏我](http://comieswater-1254012817.cossh.myqcloud.com/comieswater/1523461711237.jpg)
 
 
 
@@ -48,7 +48,7 @@ date: 2017-8-13
 
 
 
-[1]: http://o7lq3lehf.bkt.clouddn.com/%E5%B0%8F%E4%B9%A6%E5%8C%A0/%E5%B0%81%E9%9D%A2W0-0.jpg "封面W0-0"
-[2]: http://o7lq3lehf.bkt.clouddn.com/%E5%B0%8F%E4%B9%A6%E5%8C%A0/%E6%B0%B4%E8%B4%A8%E6%A8%A1%E5%9E%8B%E6%95%99%E7%A8%8B.png "水质模型教程"
-[3]: http://o7lq3lehf.bkt.clouddn.com/%E5%B0%8F%E4%B9%A6%E5%8C%A0/1502608237862.jpg
+[1]: http://comieswater-1254012817.cossh.myqcloud.com/comieswater/1523461711295.jpg "封面W0-0"
+[2]: http://comieswater-1254012817.cossh.myqcloud.com/comieswater/1523461711189.jpg "水质模型教程"
+[3]: http://comieswater-1254012817.cossh.myqcloud.com/comieswater/1523461711205.jpg
 [4]: http://o7lq3lehf.bkt.clouddn.com/%E5%B0%8F%E4%B9%A6%E5%8C%A0/%E8%BD%AC%E8%B4%A67.png "转账7"
