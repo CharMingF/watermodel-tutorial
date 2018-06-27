@@ -1,7 +1,10 @@
 # Summary
 * [前言](README.md)
-* [W0 道法自然](wm/README.md)
-  * [W0-1 形式](wm/w0-1.md)
-  * [W0-2 内容](wm/w0-2.md)
+* [WM0 道法自然](wm/README.md)
+  * [WM0-1 形式](wm/wm0-1.md)
+  * [WM0-2 内容](wm/wm0-2.md)
+    * [WM0-2.1.1 数学模型的发展历程（0）](wm/wm0-2.1.1-0.md)
+    * [WM0-2.1.1 数学模型的发展历程（1）](wm/wm0-2.1.1-1.md)
+    * [WM0-2.1.1 数学模型的发展历程（2）](wm/wm0-2.1.1-2.md)
 * [WMT 体系构架](wmt/README.md)
 * [WMP 行胜于言](wmp/README.md)
