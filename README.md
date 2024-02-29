@@ -3,6 +3,9 @@ Title: 水质模型教程（W0-0）
 tags: 1000天持续行动,水质模型教程
 date: 2017-8-13 
 ---
+点击直达：
+https://charmingf.github.io/watermodel-tutorial
+
 # 水质模型教程（W0-0）
 ·[287]|1000天行动计划
 ![封面][1]
